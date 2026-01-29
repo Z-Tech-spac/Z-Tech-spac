@@ -35,7 +35,7 @@
 - **WhatsApp:** [(21) 96631-1677](https://wa.me/5521966311677?text=Olá!%20Vim%20pelo%20github%20e%20gostaria%20de%20um%20orçamento.)
 - **E-mail:** zer0.contato.21@gmail.com
 - **PIX:** zer0.contato.21@gmail.com
-- **Site:** [zer0tech.vercel.app](https://zer0tech.vercel.app) *em breve*
+- **Site:** [Zer0 Tech](http://z-tech-spac.github.io/Z-Tech-spac/) *ON*
 
 **Horário de atendimento:** Segunda a Sexta, 9h às 18h
 
@@ -44,7 +44,7 @@
 ## 💼 **Portfólio & Projetos**
 
 ### **Projetos em Destaque:**
-- [**Zer0 Tech Site**](https://zer0tech.vercel.app) - Site portfolio da marca
+- [**Zer0 Tech Site**](http://z-tech-spac.github.io/Z-Tech-spac/) - Site portfolio da marca
 - [**Sistema de Gestão**](https://github.com/Z-Tech-spac) - Aplicação web para controle
 - **Landing Pages** - Vários projetos para clientes
 
