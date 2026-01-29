@@ -4,6 +4,10 @@
 
 ---
 
+![Status](https://img.shields.io/badge/Status-Active-success)
+![Freelancer](https://img.shields.io/badge/Freelancer-Available-blue)
+![WhatsApp](https://img.shields.io/badge/WhatsApp-Online-green)
+
 ## 🛠️ **Serviços Oferecidos**
 
 ### **💻 Desenvolvimento Web**
