@@ -7,6 +7,7 @@
 ![Status](https://img.shields.io/badge/Status-Active-success)
 ![Freelancer](https://img.shields.io/badge/Freelancer-Available-blue)
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-Online-green)
+![Site](https://img.shields.io/badge/Site-Online-green)
 
 ## 🛠️ **Serviços Oferecidos**
 
